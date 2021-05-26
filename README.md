@@ -26,6 +26,6 @@ Howdy, I'm a Front-End Engineer with 10+ years experience building web apps from
 
 #### FAQ
 - Q: What Hobbies?
-- A: To date, Music (everything you'd need to make a band), Bowling (2-hand), BMX (not very good), Baking (Bread, cakes, eclaires, etc), Mixology, Videography, Photography, Español (Castellano), Studying Full-Stack, Golf, and anything else that grabs my attention this week.
+- A: To date, Music (everything you'd need to make a band), Bowling (2-hand), BMX (not very good), Baking (Bread, cakes, eclairs, etc), Mixology, Videography, Photography, Español (Castellano), Studying Full-Stack, Golf, and anything else that grabs my attention this week.
 - Q: It says "The Caleb Lee" and you're Caleb Masters?
 - A: Yep, one of my hobbies is [music](https://yayforsquares.bandcamp.com/); my dad played guitar so I started learning and joining bands around 12 yrs old. When he passed in 1999 I changed my name to caleb lee (unofficially) as a tribute to him. Speaking of which I made a [video](https://vimeo.com/355867117) for him a few years ago you could check out.
