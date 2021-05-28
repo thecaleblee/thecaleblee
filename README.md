@@ -13,7 +13,7 @@ Howdy, I'm a Front-End Engineer with 10+ years experience building web apps from
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-472fbd?style=for-the-badge&logo=eslint&logoColor=ffffff&labelColor=2b2b2b" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00c7b6?style=for-the-badge&logo=Netlify&labelColor=2b2b2b" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=2b2b2b" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&labelColor=2b2b2b" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Gulp-cf4647?style=for-the-badge&logo=gulp&labelColor=2b2b2b" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&labelColor=2b2b2b" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&labelColor=2b2b2b" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&labelColor=2b2b2b" />
