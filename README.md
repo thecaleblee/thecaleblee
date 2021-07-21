@@ -1,5 +1,5 @@
 ## Caleb Masters 👨🏻‍💻
-Howdy, I'm a Front-End Engineer with 10+ years experience building web apps from design-to-deploy, quality UX promoter, and collector of hobbies.
+Howdy, I'm a Front-End Engineer with 10+ years experience building pixel-perfect websites from design-to-deploy. Hobby Collector.
 
 ### Things I use (nearly) every day
 <div>
