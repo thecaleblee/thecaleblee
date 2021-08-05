@@ -28,6 +28,7 @@ Howdy, I'm a Front-End Engineer with 10+ years experience building pixel-perfect
   <img alt="React" src="https://img.shields.io/badge/-React%20Native-45b8d8?style=for-the-badge&logo=react&labelColor=2b2b2b" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=2b2b2b" />
   Angular,
+  Typescript,
   Jasmine
 </div>
 
