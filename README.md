@@ -21,15 +21,15 @@ Howdy, I'm a Front-End Engineer with 10+ years experience building pixel-perfect
 
 ### What I'm currently learning
 <div>
-  <img alt="KeystoneJS" src="https://img.shields.io/badge/-KeystoneJS-2684FF?style=for-the-badge&logo=kaggle&logoColor=2684FF&labelColor=2b2b2b" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-db0b37?style=for-the-badge&logo=angular&logoColor=db0b37&labelColor=2b2b2b" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=2b2b2b" />
+  <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&labelColor=2b2b2b" />
+  <img alt="KeystoneJS" src="https://img.shields.io/badge/-KeystoneJS-2684FF?style=for-the-badge&logo=kaggle&logoColor=fff&labelColor=2b2b2b" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&labelColor=2b2b2b" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20Cloud-311C87?style=for-the-badge&logo=apollo-graphql&labelColor=2b2b2b" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-da0493?style=for-the-badge&logo=graphql&labelColor=2b2b2b" />
   <img alt="React" src="https://img.shields.io/badge/-React%20Native-45b8d8?style=for-the-badge&logo=react&labelColor=2b2b2b" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=2b2b2b" />
-  Angular,
-  Typescript,
-  Jasmine
 </div>
 
 ### To Reach Me
