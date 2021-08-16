@@ -24,6 +24,7 @@ Howdy, I'm a Front-End Engineer with 10+ years experience building pixel-perfect
 <div>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-db0b37?style=for-the-badge&logo=angular&logoColor=db0b37&labelColor=2b2b2b" />
   <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&labelColor=2b2b2b" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b983?style=for-the-badge&logo=vue.js&labelColor=2b2b2b" />
   <img alt="KeystoneJS" src="https://img.shields.io/badge/-KeystoneJS-2684FF?style=for-the-badge&logo=kaggle&logoColor=fff&labelColor=2b2b2b" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&labelColor=2b2b2b" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20Cloud-311C87?style=for-the-badge&logo=apollo-graphql&labelColor=2b2b2b" />
