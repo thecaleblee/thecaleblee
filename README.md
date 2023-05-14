@@ -1,5 +1,5 @@
 ## Caleb Masters 👨🏻‍💻
-Howdy, I'm a Front-End Engineer with 10+ years experience building pixel-perfect websites from design-to-deploy. Hobby Collector.
+Howdy, I'm a Full-Stack Engineer with 10+ years experience building pixel-perfect websites from design-to-deploy. Hobby Collector.
 
 ### Things I use (nearly) every day
 <div>
