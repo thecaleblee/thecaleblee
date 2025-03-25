@@ -5,6 +5,7 @@ Howdy, I'm a Full-Stack Engineer with 10+ years of experience delivering high-im
 ### Things I use (nearly) every day
 
 <div>
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CB3837?style=for-the-badge&logo=ruby&logoColor=CB3837&labelColor=2b2b2b" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CB3837?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=2b2b2b" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=2b2b2b" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=2b2b2b" />
