@@ -1,6 +1,6 @@
 ## Caleb Masters 👨🏻‍💻
 
-Howdy, I'm a Full-Stack Engineer with 10+ years of experience delivering high-impact, enterprise-grade web applications. Expertise in both front-end and back-end technologies.
+Howdy, I'm a Full-Stack Engineer with 10+ years of experience delivering high-impact, enterprise-grade web applications. Team Accelerator.
 
 ### Things I use (nearly) every day
 
